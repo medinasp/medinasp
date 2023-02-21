@@ -1,10 +1,8 @@
-<h1 align="center">👋 Hi there, I´m Enéias</h1>
-<h3 align="center">A web developer from São Paulo</h3>
+![6M8G](https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif)
+
+<h1>👋 Hi there, I´m Enéias</h1>
+<h3>A web developer from São Paulo</h3>
 <br>
-
-
-![6M8G](https://user-images.githubusercontent.com/39974635/220239964-f75d84c7-ce52-4f2a-80b8-99698962e9f4.gif)
-
 
 - 💬 Ask me about **dotnet 6, C#, TSQL**
 
