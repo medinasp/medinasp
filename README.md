@@ -2,7 +2,6 @@
 
 <h1>👋 Fala pessoal, Enéias por aqui</h1>
 <h3>Desenvolvedor backend - São Paulo</h3>
-<br>
 
 - 💬 Tecnologias: **dotnet 6, C#, TSQL**
 
@@ -10,7 +9,7 @@
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/eneiasmedina/](https://www.linkedin.com/in/eneiasmedina/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fale comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eneiasmedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eneiasmedina" height="30" width="40" /></a>
 &nbsp
