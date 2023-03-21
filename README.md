@@ -1,14 +1,14 @@
 ![6M8G](https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif)
 
-<h1>👋 Hi there, I´m Enéias</h1>
-<h3>A web developer from São Paulo</h3>
+<h1>👋 Fala pessoal, Enéias por aqui</h1>
+<h3>Desenvolvedor backend - São Paulo</h3>
 <br>
 
-- 💬 Ask me about **dotnet 6, C#, TSQL**
+- 💬 Tecnologias: **dotnet 6, C#, TSQL**
 
-- 📫 Feel free to reach out to me for volunteering, for hire me, or just for some interesting discussion **medinasp@gmail.com**
+- 📫 Me convide para projetos voluntários, me contrate, ou entre em contato para falar sobre tecnologias **medinasp@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eneiasmedina/](https://www.linkedin.com/in/eneiasmedina/)
+- 📄 Saiba mais sobre mim [https://www.linkedin.com/in/eneiasmedina/](https://www.linkedin.com/in/eneiasmedina/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@
 </a>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  
