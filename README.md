@@ -3,7 +3,7 @@
 <h1>👋 Fala pessoal, Enéias por aqui</h1>
 <h3>Desenvolvedor backend - São Paulo</h3>
 
-- 💬 Tecnologias: **dotnet 6, C#, TSQL**
+- 💬 Tecnologias: **.NET, C#, SQL**
 
 - 📫 Me convide para projetos voluntários, me contrate, ou entre em contato para falar sobre tecnologias **medinasp@gmail.com**
 
