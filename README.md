@@ -1,7 +1,7 @@
 ![6M8G](https://user-images.githubusercontent.com/39974635/220242568-cb9f3cf3-7ab9-487d-9512-9c33298b590a.gif)
 
 <h1>👋 Fala pessoal, Enéias por aqui</h1>
-<h3>Desenvolvedor backend - São Paulo</h3>
+<h3>Desenvolvedor back end - São Paulo</h3>
 
 - 💬 Tecnologias: **.NET, C#, SQL**
 
