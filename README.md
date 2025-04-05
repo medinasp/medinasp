@@ -5,7 +5,7 @@
 
 - 💬 Tecnologias: **.NET, C#, SQL**
 
-- 📫 Me convide para projetos voluntários, me contrate, ou entre em contato para falar sobre tecnologias **medinasp@gmail.com**
+- 📫 Me convide para projetos voluntários ou entre em contato para falar sobre tecnologias **medinasp@gmail.com**
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/eneiasmedina/](https://www.linkedin.com/in/eneiasmedina/)
 
